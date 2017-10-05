@@ -16,7 +16,7 @@
     "url": "https://github.com/CmouseG/cicada-extras/issues"
   },
   "homepage": "https://github.com/CmouseG/cicada-extras#readme",
-  "devDependencies": {
+  "dependencies": {
     "mdi": "^2.0.46"
   }
 }
