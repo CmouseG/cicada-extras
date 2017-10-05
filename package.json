@@ -1,0 +1,19 @@
+{
+  "name": "cicada-extras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CmouseG/cicada-extras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CmouseG/cicada-extras/issues"
+  },
+  "homepage": "https://github.com/CmouseG/cicada-extras#readme"
+}
