@@ -1,1 +1,1 @@
-require('./node_modules/mdi/css/materialdesignicons.css')
+require('./mdi/css/materialdesignicons.css')
